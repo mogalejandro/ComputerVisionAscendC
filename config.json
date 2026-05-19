@@ -1,0 +1,16 @@
+{
+  "model_type": "yolov11",
+  "model_path": "./model/yolov11_bs16.om",
+  "config_path": "./model/yolov11_bs1_fp16.cfg",
+  "label_path": "./model/yolov11.names",
+  "resize_width": 640,
+  "resize_height": 640,
+  "confidence_threshold": 0.30,
+  "nms_iou_threshold": 0.45,
+  "tracker_iou_thresh": 0.30,
+  "tracker_max_misses": 30,
+  "tracker_max_traj": 50,
+  "class_filter": [],
+  "num_devices": 1,
+  "batch_size": 16
+}

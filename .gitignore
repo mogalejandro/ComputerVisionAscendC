@@ -1,0 +1,33 @@
+# ─── Build output ─────────────────────────────────────────────────────────────
+build/
+*.o
+*.a
+*.so
+infer
+stress_infer
+
+# ─── Inference output ─────────────────────────────────────────────────────────
+data/
+out/
+out_track/
+infer_results.csv
+stress_results.csv
+
+# ─── Model files (large binaries, keep out of repo) ───────────────────────────
+model/*.om
+model/*.pb
+model/*.pt
+model/*.json
+model/*.onnx
+
+# ─── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+*.csv
+*.mp4
+# ─── OS / editor noise ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo

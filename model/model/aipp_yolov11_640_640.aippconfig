@@ -1,0 +1,23 @@
+aipp_op {
+    aipp_mode: static
+    input_format: YUV420SP_U8
+    src_image_size_w: 640
+    src_image_size_h: 640
+    crop: false
+    load_start_pos_w: 0
+    load_start_pos_h: 0
+    csc_switch: false
+    rbuv_swap_switch: false
+
+    # Standard YOLO Normalization (1/255)
+    # Note: If 'pixel_mean_chn_0' failed, use 'mean_chn_0'
+    mean_chn_0: 0
+    mean_chn_1: 0
+    mean_chn_2: 0
+    min_chn_0: 0.0
+    min_chn_1: 0.0
+    min_chn_2: 0.0
+    var_reci_chn_0: 0.00392157
+    var_reci_chn_1: 0.00392157
+    var_reci_chn_2: 0.00392157
+}

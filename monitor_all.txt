@@ -1,0 +1,4974 @@
+=== 02:42:17 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 6
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 0
+	Ctrlcpu Usage Rate(%)          : 18
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 0
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 35
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 37
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 34
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.7Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:42:21 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 3
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 35
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 38
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 34
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.8Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:42:25 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 4
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 38
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 34
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.8Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:42:30 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 2
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 38
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 34
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+Mem:           1.5Ti       8.8Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:42:34 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 1
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 38
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 34
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.8Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:42:38 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 1
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 38
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 34
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.5 sy,  0.0 ni, 99.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.8Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:42:42 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 10
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 34
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.5 sy,  0.0 ni, 99.3 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+Mem:           1.5Ti       8.7Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:42:46 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 5
+	Aivector Usage Rate(%)         : 3
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 3
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 34
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.7 sy,  0.0 ni, 99.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.8Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:42:50 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 2
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 34
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.7Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:42:55 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 2
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 34
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+Mem:           1.5Ti       8.8Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:42:59 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 4
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 34
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.8Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:43:03 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 4
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 34
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.8Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:43:07 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 6
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 34
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.8Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:43:11 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 5
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 34
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.8Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:43:15 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 3
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 34
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.8Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:43:20 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 2
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 34
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.8Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:43:24 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 3
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.8Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:43:28 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 3
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 4
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.7Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:43:32 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 3
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 5
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+Mem:           1.5Ti       8.8Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:43:37 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 2
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.8Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:43:41 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 6
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.8Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:43:45 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 6
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 1
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.5 sy,  0.0 ni, 99.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.7Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:43:49 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 5
+	Aicore Usage Rate(%)           : 1
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 0
+	Ctrlcpu Usage Rate(%)          : 1
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 0
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:43:53 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 2
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:43:57 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 1
+	Aivector Usage Rate(%)         : 6
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 3
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.5 sy,  0.0 ni, 99.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:44:02 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 1
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 9
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:44:06 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 5
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:44:10 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 3
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 2
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:44:14 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 3
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:44:18 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 8
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:44:23 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 3
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 3
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:44:27 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 6
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 2
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:44:31 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 3
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:44:35 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 1
+	Ctrlcpu Usage Rate(%)          : 9
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:44:39 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 3
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 6
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:44:44 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 4
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:44:48 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 1
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:44:52 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 3
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 4
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:44:56 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 5
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 36
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.0Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:45:00 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 5
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:45:05 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 4
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.0Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:45:09 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 2
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       8.9Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:45:13 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 4
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.0Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:45:17 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 5
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 4
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.0Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:45:21 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 0
+	Aivector Usage Rate(%)         : 0
+	Aicpu Usage Rate(%)            : 0
+	Ctrlcpu Usage Rate(%)          : 2
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 0
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.0 us,  0.2 sy,  0.0 ni, 99.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.0Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:45:25 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 3
+	Aivector Usage Rate(%)         : 3
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 5
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:45:30 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 8
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 3
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:45:34 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 8
+	Aicore Usage Rate(%)           : 3
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 2
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:45:38 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 10
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 5
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:45:42 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 10
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 6
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:45:46 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 10
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 5
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.8 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:45:50 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 10
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 7
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:45:55 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 10
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 4
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:45:59 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 11
+	Aicore Usage Rate(%)           : 1
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 3
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:46:03 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 11
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 3
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:46:07 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 11
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 5
+	Ctrlcpu Usage Rate(%)          : 8
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.4 us,  0.5 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:46:11 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 11
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 4
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 4
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:46:15 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 11
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 16
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:46:20 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 11
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 5
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:46:24 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 11
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 3
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:46:28 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 11
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 3
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:46:32 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 11
+	Aicore Usage Rate(%)           : 1
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 7
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:46:36 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 11
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 3
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:46:40 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 11
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 5
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:46:45 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 11
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 4
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:46:49 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 11
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 5
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.5 sy,  0.0 ni, 99.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:46:53 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 11
+	Aicore Usage Rate(%)           : 1
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 2
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.1 us,  0.2 sy,  0.0 ni, 99.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:46:57 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 7
+	Aicore Usage Rate(%)           : 0
+	Aivector Usage Rate(%)         : 0
+	Aicpu Usage Rate(%)            : 0
+	Ctrlcpu Usage Rate(%)          : 1
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 0
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 36
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.0 us,  0.2 sy,  0.0 ni, 99.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.1Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:47:01 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 11
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 5
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 0
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.4 us,  0.6 sy,  0.0 ni, 99.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.2Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:47:05 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 12
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 3
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 6
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.2Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:47:10 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 12
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 3
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.3Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:47:14 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 12
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 4
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.2Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:47:18 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 12
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 3
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 11
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.4 us,  0.6 sy,  0.0 ni, 99.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.2Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:47:22 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 12
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 11
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.4 us,  0.6 sy,  0.0 ni, 99.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.3Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:47:26 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 12
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 6
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 7
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.8 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.3Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:47:31 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 12
+	Aicore Usage Rate(%)           : 3
+	Aivector Usage Rate(%)         : 3
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 6
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.2Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:47:35 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 12
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 10
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.6 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.2Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:47:39 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 12
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 2
+	Ctrlcpu Usage Rate(%)          : 3
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.2Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:47:43 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 12
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 6
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 6
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.3Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:47:47 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 12
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 3
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 8
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.2Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:47:51 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 12
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 5
+	Ctrlcpu Usage Rate(%)          : 7
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.2Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:47:56 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 12
+	Aicore Usage Rate(%)           : 5
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 3
+	Ctrlcpu Usage Rate(%)          : 9
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 39
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.2Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:48:00 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 12
+	Aicore Usage Rate(%)           : 0
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 7
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.7 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti       9.2Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:48:04 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 12
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 6
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 4
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.6 us,  0.9 sy,  0.0 ni, 98.5 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:48:08 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 34
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 5
+	Ctrlcpu Usage Rate(%)          : 6
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.6 us,  0.8 sy,  0.0 ni, 98.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:48:12 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 34
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 7
+	Ctrlcpu Usage Rate(%)          : 5
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.5 us,  0.9 sy,  0.0 ni, 98.5 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:48:17 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 34
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 10
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.4 us,  0.9 sy,  0.0 ni, 98.6 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:48:21 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 34
+	Aicore Usage Rate(%)           : 7
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 5
+	Ctrlcpu Usage Rate(%)          : 5
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.4 us,  1.0 sy,  0.0 ni, 98.6 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:48:25 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 34
+	Aicore Usage Rate(%)           : 7
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 5
+	Ctrlcpu Usage Rate(%)          : 2
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.5 us,  0.9 sy,  0.0 ni, 98.5 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:48:29 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 34
+	Aicore Usage Rate(%)           : 5
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 6
+	Ctrlcpu Usage Rate(%)          : 2
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.4 us,  0.6 sy,  0.0 ni, 99.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:48:34 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 34
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 7
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:48:38 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 33
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 6
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.4 us,  0.6 sy,  0.0 ni, 99.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:48:42 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 30
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 6
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:48:47 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 9
+	Aicpu Usage Rate(%)            : 6
+	Ctrlcpu Usage Rate(%)          : 7
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.6 us,  0.9 sy,  0.0 ni, 98.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:48:51 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 8
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 9
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 4
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 35
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.5 us,  0.9 sy,  0.0 ni, 98.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:48:55 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 6
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 6
+	Ctrlcpu Usage Rate(%)          : 7
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.4 us,  0.9 sy,  0.0 ni, 98.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:48:59 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 8
+	Aicpu Usage Rate(%)            : 5
+	Ctrlcpu Usage Rate(%)          : 9
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.9 us,  1.7 sy,  0.0 ni, 97.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:49:04 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 7
+	Aicpu Usage Rate(%)            : 6
+	Ctrlcpu Usage Rate(%)          : 32
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 39
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.4 us,  0.9 sy,  0.0 ni, 98.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:49:08 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 7
+	Aivector Usage Rate(%)         : 8
+	Aicpu Usage Rate(%)            : 7
+	Ctrlcpu Usage Rate(%)          : 5
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.4 us,  0.9 sy,  0.0 ni, 98.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:49:12 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 6
+	Aivector Usage Rate(%)         : 8
+	Aicpu Usage Rate(%)            : 6
+	Ctrlcpu Usage Rate(%)          : 8
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.5 us,  0.9 sy,  0.0 ni, 98.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:49:16 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 7
+	Ctrlcpu Usage Rate(%)          : 10
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.5 us,  1.0 sy,  0.0 ni, 98.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:49:21 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 8
+	Aicpu Usage Rate(%)            : 7
+	Ctrlcpu Usage Rate(%)          : 22
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.6 us,  0.8 sy,  0.0 ni, 98.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:49:25 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 5
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 6
+	Ctrlcpu Usage Rate(%)          : 10
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.5 us,  0.8 sy,  0.0 ni, 98.7 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:49:29 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 6
+	Aivector Usage Rate(%)         : 6
+	Aicpu Usage Rate(%)            : 6
+	Ctrlcpu Usage Rate(%)          : 6
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.6 us,  0.9 sy,  0.0 ni, 98.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:49:33 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 6
+	Aivector Usage Rate(%)         : 6
+	Aicpu Usage Rate(%)            : 6
+	Ctrlcpu Usage Rate(%)          : 7
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.4 us,  0.9 sy,  0.0 ni, 98.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:49:37 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 4
+	Ctrlcpu Usage Rate(%)          : 7
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:49:42 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 8
+	Ctrlcpu Usage Rate(%)          : 9
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:49:46 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 6
+	Ctrlcpu Usage Rate(%)          : 7
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:49:50 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 4
+	Aivector Usage Rate(%)         : 3
+	Aicpu Usage Rate(%)            : 6
+	Ctrlcpu Usage Rate(%)          : 13
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:49:54 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 7
+	Ctrlcpu Usage Rate(%)          : 7
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:49:58 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 35
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 8
+	Ctrlcpu Usage Rate(%)          : 0
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.5 us,  0.6 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:50:02 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 31
+	Aicore Usage Rate(%)           : 1
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 8
+	Ctrlcpu Usage Rate(%)          : 9
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.7 sy,  0.0 ni, 99.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:50:07 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 26
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 7
+	Ctrlcpu Usage Rate(%)          : 11
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.6 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:50:11 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 21
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 6
+	Ctrlcpu Usage Rate(%)          : 11
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.3 us,  0.7 sy,  0.0 ni, 99.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:50:15 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 17
+	Aicore Usage Rate(%)           : 0
+	Aivector Usage Rate(%)         : 0
+	Aicpu Usage Rate(%)            : 7
+	Ctrlcpu Usage Rate(%)          : 3
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 2
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.5 us,  0.3 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        10Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:50:19 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 14
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 2
+	Aicpu Usage Rate(%)            : 5
+	Ctrlcpu Usage Rate(%)          : 22
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 37
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.2 us,  0.4 sy,  0.0 ni, 99.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        11Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:50:23 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 32
+	Aicore Usage Rate(%)           : 2
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 11
+	Ctrlcpu Usage Rate(%)          : 9
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 1
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.6 us,  1.0 sy,  0.0 ni, 98.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        11Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:50:28 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 40
+	Aicore Usage Rate(%)           : 7
+	Aivector Usage Rate(%)         : 7
+	Aicpu Usage Rate(%)            : 6
+	Ctrlcpu Usage Rate(%)          : 5
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 4
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Clock Speed(MHz)           : 0
+	HBM Capacity(MB)               : 65536
+	HBM Clock Speed(MHz)           : 1600
+	HBM Temperature(C)             : 38
+	HBM Manufacturer ID            : 0x57
+	Chip ID                        : 0
+
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	NPU Temperature (C)            : 40
+	Chip ID                        : 0
+
+	LM75A_TE (C)                   : 36
+	LM75B_TE (C)                   : 37
+	Chip Name                      : MCU
+
+%Cpu(s):  0.6 us,  0.9 sy,  0.0 ni, 98.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+Mem:           1.5Ti        11Gi       1.4Ti       4.0Mi        30Gi       1.5Ti
+
+=== 02:50:32 ===
+	NPU ID                         : 0
+	Chip Count                     : 1
+
+	DDR Capacity(MB)               : 0
+	DDR Usage Rate(%)              : 0
+	DDR Hugepages Total(page)      : 0
+	DDR Hugepages Usage Rate(%)    : 0
+	HBM Capacity(MB)               : 65536
+	HBM Usage Rate(%)              : 40
+	Aicore Usage Rate(%)           : 7
+	Aivector Usage Rate(%)         : 5
+	Aicpu Usage Rate(%)            : 7
+	Ctrlcpu Usage Rate(%)          : 7
+	DDR Bandwidth Usage Rate(%)    : 0
+	HBM Bandwidth Usage Rate(%)    : 3
+	Chip ID                        : 0
+

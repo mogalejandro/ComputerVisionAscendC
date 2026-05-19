@@ -1,0 +1,34 @@
+{
+    "graph_id": 0,
+    "op": [
+        {
+            "error_type": "infer_shape_error",
+            "input0": {
+                "data_type": "DT_FLOAT",
+                "layout": "ND",
+                "shape": [
+                    4,
+                    256,
+                    20,
+                    20
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    4
+                ]
+            },
+            "name": "/model.10/m/m.0/attn/Reshape_ascend_mbatch_batch_1",
+            "output0": {
+                "data_type": "DT_FLOAT",
+                "layout": "ND",
+                "shape": []
+            },
+            "reason": "InferShapeFailed!",
+            "type": "Reshape"
+        }
+    ],
+    "session_id": 0
+}

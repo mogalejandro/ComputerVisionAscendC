@@ -1,0 +1,103 @@
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W20260506 02:27:22.307631 281473356275776 AclApi.cpp:292] Find no libcust_opapi.so, please check your environment.
+W20260506 02:27:22.307751 281473356275776 AclApi.cpp:651] aclnnErodeCustomGetWorkspaceSizeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.307772 281473356275776 AclApi.cpp:655] aclnnErodeCustomFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.307789 281473356275776 AclApi.cpp:674] aclnnRotateGetWorkspaceSizeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.307806 281473356275776 AclApi.cpp:678] aclnnRotateFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.307820 281473356275776 AclApi.cpp:684] aclnnResizeNearestGetWorkspaceSizeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.307833 281473356275776 AclApi.cpp:688] aclnnResizeNearestFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.307847 281473356275776 AclApi.cpp:694] aclnnResizeBilinearGetWorkspaceSizeFuncTypeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.307862 281473356275776 AclApi.cpp:698] aclnnResizeBilinearFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.307875 281473356275776 AclApi.cpp:707] aclnnAbsSumCustomGetWorkspaceSize is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.307888 281473356275776 AclApi.cpp:712] aclnnAbsSumCustomFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.307901 281473356275776 AclApi.cpp:718] aclnnSqrSumCustomGetWorkspaceSize is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.307914 281473356275776 AclApi.cpp:723] aclnnSqrSumCustomFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.307927 281473356275776 AclApi.cpp:728] aclnnMinMaxLocGetWorkspaceSizeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.307940 281473356275776 AclApi.cpp:732] aclnnMinMaxLocFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.307953 281473356275776 AclApi.cpp:737] aclnnSumCustomGetWorkspaceSizeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.307967 281473356275776 AclApi.cpp:741] aclnnSumCustomFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.307984 281473356275776 AclApi.cpp:607] aclnnBlendImagesCustomGetWorkspaceSizeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.307997 281473356275776 AclApi.cpp:612] aclnnBlendImagesCustomFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308011 281473356275776 AclApi.cpp:438] aclnnDivideCustomGetWorkspaceSizeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308023 281473356275776 AclApi.cpp:442] aclnnDivideCustomFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308039 281473356275776 AclApi.cpp:467] aclnnMultiplyCustomGetWorkspaceSizeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308052 281473356275776 AclApi.cpp:471] aclnnMultiplyCustomFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308068 281473356275776 AclApi.cpp:547] aclnnThresholdBinaryCustomGetWorkspaceSizeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308082 281473356275776 AclApi.cpp:552] aclnnThresholdBinaryCustomFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308094 281473356275776 AclApi.cpp:558] aclnnRescaleCustomGetWorkspaceSize is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308107 281473356275776 AclApi.cpp:562] aclnnRescaleCustomFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308120 281473356275776 AclApi.cpp:568] aclnnCompareCustomGetWorkspaceSize is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308133 281473356275776 AclApi.cpp:572] aclnnCompareCustom is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308145 281473356275776 AclApi.cpp:578] aclnnPowCustomGetWorkspaceSize is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308158 281473356275776 AclApi.cpp:582] aclnnPowCustom is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308178 281473356275776 AclApi.cpp:392] aclnnMinCustomGetWorkspaceSizeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308192 281473356275776 AclApi.cpp:396] aclnnMinCustomFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308202 281473356275776 AclApi.cpp:402] aclnnMaxCustomGetWorkspaceSizeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308214 281473356275776 AclApi.cpp:406] aclnnMaxCustomFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308226 281473356275776 AclApi.cpp:480] aclnnAddWeightedCustomGetWorkspaceSizeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308238 281473356275776 AclApi.cpp:485] aclnnAddWeightedCustomFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308252 281473356275776 AclApi.cpp:491] aclnnScaleAddCustomGetWorkspaceSizeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308264 281473356275776 AclApi.cpp:495] aclnnScaleAddCustomFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308275 281473356275776 AclApi.cpp:504] aclnnSqrCustomGetWorkspaceSizeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308288 281473356275776 AclApi.cpp:508] aclnnSqrCustomFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308302 281473356275776 AclApi.cpp:513] aclnnSqrtCustomGetWorkspaceSizeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308315 281473356275776 AclApi.cpp:517] aclnnSqrtCustomFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308328 281473356275776 AclApi.cpp:415] aclnnAbsCustomGetWorkspaceSizeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308340 281473356275776 AclApi.cpp:419] aclnnAbsCustom is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308353 281473356275776 AclApi.cpp:425] aclnnAbsCustomGetWorkspaceSizeFuncP is nullptr, please check libcust_opapi.so.
+W20260506 02:27:22.308365 281473356275776 AclApi.cpp:429] aclnnAbsDiffCustom is nullptr, please check libcust_opapi.so.
+Begin to initialize Log.
+The output directory of logs file exist.
+I20260506 02:27:22.313552 281473356275776 FileUtils.cpp:423] The input file is empty
+I20260506 02:27:22.313572 281473356275776 FileUtils.cpp:579] Check Other group permission: Current permission is 4, but required no greater than 0.
+Save logs information to specified directory.
+[CONFIG] model_type=yolov11  model_path=./model/yolov11_bs16.om  config_path=./model/yolov11_bs1_fp16.cfg  label_path=./model/yolov11.names  resize=640x640  conf_thresh=0.3  nms_iou=0.45  num_devices=1  batch_size=16  tracker_iou=0.3  tracker_miss=30  tracker_traj=50
+[INFO] devices=1  vdec_slots=32  skip=0
+[INFO] Probing stream from data/videotest.mp4 ...
+[PROBE] data/videotest.mp4  1920×1080  30.00 fps  codec=h264
+[INFO] Detected: 1920×1080  30.00 fps
+
+╔══════════════════════════════════════════════════════╗
+║        Ascend 910B  Channel Capacity Sweep           ║
+╚══════════════════════════════════════════════════════╝
+  Source     : data/videotest.mp4 [file]
+  Source FPS : 30.0
+  Range      : 1 → 1  step 1
+  Measure    : 90s
+  Model      : yolov11  640×640  batch=16
+
+── 1 channel(s) ──
+  [measure 90s]
+[DBG] RunPipeline entered, urls=1 NUM_DEVICES=1
+[INFO] channels=1  raw_queue/worker=64  total_raw_cap=64
+[INFO] mux_ratio=1  ready_cap=64  decode_skip=0
+[ALLOC] 1 stream(s) on 1 device(s).
+[DEVICE 0] Model and ImageProcessor ready.
+[DBG] Creating VideoDecoder device=0 slot=0 size=1920×1080
+[DBG] VideoDecoder created device=0 slot=0
+[INFO] batchTimeout initial=150ms  (source_fps=30.0)
+[02:27:29.204] channels=1  inferred=1616  decoded=2194  resized=1616  fps=321.6  fpsPerCh=321.6  fill=1.00  lag=332.9ms  inferMs=46.7ms  timeout=56ms  skip=0  q=[ ready=64 raw=[ 64 ]]
+[02:27:34.232] channels=1  inferred=3280  decoded=4424  resized=3280  fps=326.2  fpsPerCh=326.2  fill=1.00  lag=374.3ms  inferMs=37.1ms  timeout=44ms  skip=0  q=[ ready=64 raw=[ 64 ]]
+[02:27:39.272] channels=1  inferred=5168  decoded=6640  resized=5168  fps=342.4  fpsPerCh=342.4  fill=1.00  lag=376.5ms  inferMs=37.2ms  timeout=44ms  skip=0  q=[ ready=64 raw=[ 64 ]]
+[02:27:44.292] channels=1  inferred=7072  decoded=8831  resized=7072  fps=351.6  fpsPerCh=351.6  fill=1.00  lag=376.9ms  inferMs=36.8ms  timeout=44ms  skip=0  q=[ ready=64 raw=[ 64 ]]
+[02:27:49.318] channels=1  inferred=8928  decoded=10990  resized=8928  fps=355.1  fpsPerCh=355.1  fill=1.00  lag=378.8ms  inferMs=38.5ms  timeout=46ms  skip=0  q=[ ready=64 raw=[ 64 ]]
+[02:27:54.321] channels=1  inferred=10784  decoded=13158  resized=10784  fps=357.8  fpsPerCh=357.8  fill=1.00  lag=379.7ms  inferMs=37.7ms  timeout=45ms  skip=0  q=[ ready=64 raw=[ 64 ]]
+[02:27:59.335] channels=1  inferred=12624  decoded=15326  resized=12624  fps=359.1  fpsPerCh=359.1  fill=1.00  lag=380.9ms  inferMs=37.8ms  timeout=45ms  skip=0  q=[ ready=64 raw=[ 64 ]]
+[02:28:04.342] channels=1  inferred=14464  decoded=17483  resized=14464  fps=360.1  fpsPerCh=360.1  fill=1.00  lag=381.7ms  inferMs=37.6ms  timeout=45ms  skip=0  q=[ ready=64 raw=[ 64 ]]
+[02:28:09.356] channels=1  inferred=16320  decoded=19674  resized=16320  fps=361.2  fpsPerCh=361.2  fill=1.00  lag=382.0ms  inferMs=37.5ms  timeout=45ms  skip=0  q=[ ready=64 raw=[ 64 ]]
+[02:28:14.380] channels=1  inferred=18192  decoded=21890  resized=18192  fps=362.4  fpsPerCh=362.4  fill=1.00  lag=381.9ms  inferMs=37.4ms  timeout=44ms  skip=0  q=[ ready=64 raw=[ 64 ]]
+[02:28:19.414] channels=1  inferred=20048  decoded=24074  resized=20048  fps=363.0  fpsPerCh=363.0  fill=1.00  lag=382.3ms  inferMs=38.1ms  timeout=45ms  skip=0  q=[ ready=64 raw=[ 64 ]]
+[02:28:24.438] channels=1  inferred=21872  decoded=26288  resized=21872  fps=363.0  fpsPerCh=363.0  fill=1.00  lag=382.7ms  inferMs=38.4ms  timeout=46ms  skip=0  q=[ ready=64 raw=[ 64 ]]
+[02:28:29.460] channels=1  inferred=23696  decoded=28480  resized=23696  fps=363.0  fpsPerCh=363.0  fill=1.00  lag=383.2ms  inferMs=38.4ms  timeout=46ms  skip=0  q=[ ready=64 raw=[ 64 ]]
+[02:28:34.486] channels=1  inferred=25520  decoded=30656  resized=25520  fps=363.0  fpsPerCh=363.0  fill=1.00  lag=383.8ms  inferMs=37.6ms  timeout=45ms  skip=0  q=[ ready=64 raw=[ 64 ]]
+[02:28:39.491] channels=1  inferred=27376  decoded=32862  resized=27376  fps=363.5  fpsPerCh=363.5  fill=1.00  lag=383.6ms  inferMs=37.4ms  timeout=44ms  skip=0  q=[ ready=64 raw=[ 64 ]]
+[02:28:44.508] channels=1  inferred=29232  decoded=35024  resized=29232  fps=363.9  fpsPerCh=363.9  fill=1.00  lag=383.8ms  inferMs=37.4ms  timeout=44ms  skip=0  q=[ ready=64 raw=[ 64 ]]
+[02:28:49.543] channels=1  inferred=31104  decoded=37229  resized=31104  fps=364.4  fpsPerCh=364.4  fill=1.00  lag=383.7ms  inferMs=37.4ms  timeout=44ms  skip=0  q=[ ready=64 raw=[ 64 ]]
+  → total=364.4  fps/ch=364.36  lag=383.6ms  skip=0
+
+┌───────────┬───────────┬────────────┬───────────┬──────┐
+│ Channels  │ Total FPS │ FPS/Chan   │  Lag (ms) │ Skip │
+├───────────┼───────────┼────────────┼───────────┼──────┤
+│         1 │     364.4 │     364.36 │     383.6 │    0 │
+└───────────┴───────────┴────────────┴───────────┴──────┘
+
